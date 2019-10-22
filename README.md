@@ -1,14 +1,17 @@
 # SurvivalZombie-Java
 A shooter game, the objetive is kill the zombie before that kill you.
-This project use Java with MySQL.
-The game is made with Java and images with MySQL.
+This project use Java with MySQL to load the images.
 
 If you want to play, you need change the user and password with you user and password of you MySQL. 
-The file that contain the connection is Connect.java
+The file that contain the connection is Connect.java.
+## Author
+[Github KenshiroSenpai](https://github.com/kenshiroSenpai)
+
+[Github Koncana](https://github.com/koncana)
 ## Screenshot
 ![alt text](https://github.com/kenshiroSenpai/SurvivalZombie-Java/blob/master/Screenshot/mainMenu.PNG)
 ![alt text](https://github.com/kenshiroSenpai/SurvivalZombie-Java/blob/master/Screenshot/game.PNG)
-## Controllers
+## Controls
 *W* -> Up
 
 *S* -> Down
