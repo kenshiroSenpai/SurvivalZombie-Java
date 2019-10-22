@@ -4,6 +4,8 @@ This project use Java with MySQL to load the images.
 
 If you want to play, you need change the user and password with you user and password of you MySQL. 
 The file that contain the connection is Connect.java.
+
+You need **NetBeans** to run the game and execute the script juegoSurvivalZombie.sql to have the db.
 ## Author
 [Github KenshiroSenpai](https://github.com/kenshiroSenpai)
 
